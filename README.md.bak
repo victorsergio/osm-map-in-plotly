@@ -13,5 +13,5 @@ without the Lanelet library using MatplotLib.
 This file contains minor modifications to the orginal source 
 to make it compatible with Plotly.
 
-The original source library can be 
+The original source of this file can be 
 founded here: https://github.com/interaction-dataset/interaction-dataset/tree/master/python/utils
